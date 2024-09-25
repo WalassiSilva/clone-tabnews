@@ -10,10 +10,6 @@ export default function Home() {
     "yabirifó (e pau). yabirifó (e rola)",
   ];
 
-  function test() {
-    
-  }
-
   return (
     <>
       <h1>Escolha entre "1", "2" e "3"</h1>
