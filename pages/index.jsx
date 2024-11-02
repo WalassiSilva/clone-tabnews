@@ -5,9 +5,9 @@ export default function Home() {
   const [value, setValue] = useState("");
   const res = [
     "",
-    "Pena de urubu, pena de galinha... Se vocês está com dor no cu... Dá uma risadinha.",
+    "Pena de urubu, pena de galinha... ",
     "Trás carne pra fazer gostrognokof",
-    "yabirifó (e pau). yabirifó (e rola)",
+    "yabirifó (_ ___). yabirifó (_ ____)",
   ];
 
   return (
